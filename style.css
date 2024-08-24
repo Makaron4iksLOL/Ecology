@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    font-family: sans-serif;
+}
+head {
+    background-color: rgb(218, 218, 218);
+}
+h1 {
+    margin-bottom: 0px;
+}
+h2 {
+    margin-top: 2px;
+}
+
+.logo{
+    float: left;
+}
+.text{
+    font-family: "Montserrat", sans-serif;
+}
+.kartinka{ margin-left: 100px
+}
+.img2 {
+    margin-left: 350px
+}
